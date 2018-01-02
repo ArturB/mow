@@ -1,0 +1,1 @@
+Grupowanie metodą SOM (artykuł dostępny z komputerów z adresem z sieci PW) a klasyczne techniki grupowania. Przydatne materiały:tutorial w R, R pakiet som SOM-inaczej sieć Kohonena
